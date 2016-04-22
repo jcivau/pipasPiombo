@@ -1,0 +1,8 @@
+.team-wrapper-big:hover .team-wrapper-overlay, .team-wrapper-small:hover .team-wrapper-overlay { 
+	background: #FE7A66; 
+	opacity: 0.9;
+}
+
+h5{
+	font-size: 40px;
+}
